@@ -1,7 +1,9 @@
 package main
 
-import "vijju/array"
+import (
+	slidingwindow "vijju/sliding-window"
+)
 
 func main() {
-	array.SubarrayDivByK()
+	slidingwindow.MinWindow()
 }
