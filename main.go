@@ -1,9 +1,9 @@
 package main
 
 import (
-	slidingwindow "vijju/sliding-window"
+	"vijju/tree"
 )
 
 func main() {
-	slidingwindow.RemoveDuplicates()
+	tree.FindWords()
 }
