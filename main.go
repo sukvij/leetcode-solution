@@ -1,9 +1,9 @@
 package main
 
 import (
-	"vijju/tree"
+	"vijju/dp"
 )
 
 func main() {
-	tree.FindWords()
+	dp.FindLength()
 }
